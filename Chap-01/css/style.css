@@ -1,0 +1,60 @@
+body {
+    font-family: Courier, "Courier New", monospace;
+    background: url(../images/constructive-backdrop.jpg) center center no-repeat fixed;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h3, p {
+    width: 320px;
+    float: left;
+    border-left: 1px solid #bcbdb0;
+    padding: 10px;
+    padding-right: 0;
+    border-right: 1px solid #bcbdb0;
+    color: #5a514c;
+    text-align: center;
+}
+
+h1 {
+    text-indent: -999px;
+    background-image: url(../images/constructive-logo.gif);
+    background-repeat: no-repeat;
+    height: 150px;
+    margin: 40px;
+    margin-bottom: 0;
+    border-top: 1px solid #bcbdb0;
+}
+
+
+h3 {
+    border-left: 1px solid #bcbdb0;
+    border-right: 1px solid #bcbdb0;
+    clear: left;
+    margin-left: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #fff;
+    font-size: 160%;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 800;
+}
+
+p {
+    clear: left;
+    margin: 40px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #fff;
+    border-bottom: 1px solid #bcbdb0;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    line-height: 1.4em;
+    margin-top: 0;
+
+    
+}

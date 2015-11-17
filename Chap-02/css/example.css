@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+}
+body {
+    background-color: #b6a996;
+    background: url(../images/hobart.jpg) center center no-repeat fixed;
+    background-size: cover;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+}
